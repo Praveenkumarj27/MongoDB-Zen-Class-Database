@@ -225,5 +225,6 @@ db.users.insertMany([
       userid: 4,
       drive_date: new Date("27-nov-2021"),
       company: "Freshworks",
-    },
+    }
+      
   ]);
